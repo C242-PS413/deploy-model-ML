@@ -1,0 +1,11 @@
+fastapi[standard] 
+tensorflow 
+opencv-python
+python-multipart
+
+# Additional dependencies for recommendation system
+pandas
+numpy
+scikit-learn
+requests
+pillow
